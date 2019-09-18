@@ -1,0 +1,24 @@
+}
+"products": [
+{"id":1,"name":"Wallaby, tammar","category":"Maroon"},
+{"id":2,"name":"Kangaroo, black-faced","category":"Violet"},
+{"id":3,"name":"Blackish oystercatcher","category":"Turquoise"},
+{"id":4,"name":"Canadian river otter","category":"Yellow"},
+{"id":5,"name":"Bustard, stanley","category":"Yellow"},
+{"id":6,"name":"Hawk, galapagos","category":"Maroon"},
+{"id":7,"name":"Kelp gull","category":"Khaki"},
+{"id":8,"name":"Superb starling","category":"Khaki"},
+{"id":9,"name":"Red-winged hawk (unidentified)","category":"Aquamarine"},
+{"id":10,"name":"Southern hairy-nosed wombat","category":"Mauv"},
+{"id":11,"name":"White-faced tree rat","category":"Red"},
+{"id":12,"name":"Francolin, swainson's","category":"Indigo"},
+{"id":13,"name":"Roan antelope","category":"Goldenrod"},
+{"id":14,"name":"Buffalo, wild water","category":"Violet"},
+{"id":15,"name":"Goliath heron","category":"Goldenrod"},
+{"id":16,"name":"Vulture, egyptian","category":"Green"},
+{"id":17,"name":"Caracara, yellow-headed","category":"Teal"},
+{"id":18,"name":"Skink, blue-tongued","category":"Mauv"},
+{"id":19,"name":"Little blue penguin","category":"Turquoise"},
+{"id":20,"name":"Sifaka, verreaux's","category":"Maroon"}
+]
+}
