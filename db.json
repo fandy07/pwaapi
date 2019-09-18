@@ -1,5 +1,5 @@
-}
-"products": [
+{
+"products" [
 {"id":1,"name":"Wallaby, tammar","category":"Maroon"},
 {"id":2,"name":"Kangaroo, black-faced","category":"Violet"},
 {"id":3,"name":"Blackish oystercatcher","category":"Turquoise"},
